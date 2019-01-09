@@ -1,0 +1,28 @@
+building 
+
+dribble.com
+
+api
+> https://yts.am/api
+
+<2>
+웹팩(모듈번들러)
+https://webpack.js.org/
+리액트 코드를 브라우저가 이해할수 있는 코드로 변경해주는 역할
+
+create react app
+https://github.com/facebook/create-react-app
+
+ npm start
+    Starts the development server.
+
+  npm run build
+    Bundles the app into static files for production.
+
+  npm test
+    Starts the test runner.
+
+  npm run eject
+    Removes this tool and copies build dependencies, configuration files
+    and scripts into the app directory. If you do this, you can’t go back!
+
