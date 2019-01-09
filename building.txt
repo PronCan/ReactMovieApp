@@ -26,3 +26,9 @@ https://github.com/facebook/create-react-app
     Removes this tool and copies build dependencies, configuration files
     and scripts into the app directory. If you do this, you can’t go back!
 
+react / reactDOM
+react : UI라이브러리. UI, 유저인터페이스
+reactDOM : 리액트를 웹사이트에 출력시키는걸 도와주는 모델
+웹사이트 : reactDOM / 모바일앱 : reactNative
+
+reactDOM : 한개의 컴포넌트를 출력(reander) 그 안에 엘리먼트 아이디의 id
